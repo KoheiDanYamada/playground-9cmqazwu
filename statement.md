@@ -3,7 +3,7 @@
 This Ruby template lets you get started quickly with a simple one-page playground.
 
 ```ruby runnable
-puts 'Hello World!'
+puts 'Hello World1!'
 ```
 
 # Advanced usage
